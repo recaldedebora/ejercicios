@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\Ejercicio I01 - Avisame si cambia\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio I01 - Avisame si cambia\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ejercicio I01 - Avisame si cambia\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio I01 - Avisame si cambia\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ejercicio I01 - Avisame si cambia\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache

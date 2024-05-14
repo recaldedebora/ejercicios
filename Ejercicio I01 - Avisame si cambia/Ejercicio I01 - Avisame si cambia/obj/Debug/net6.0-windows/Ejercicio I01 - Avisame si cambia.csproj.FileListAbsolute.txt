@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio I01 - Avisame si cambia\Ejercicio I01 - Avisame si cambia\obj\Debug\net6.0-windows\Ejercicio I01 - Avisame si cambia.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio I01 - Avisame si cambia\Ejercicio I01 - Avisame si cambia\obj\Debug\net6.0-windows\Ejercicio_I01___Avisame_si_cambia.FrmAvisador.resources
+C:\Users\Usuario\source\repos\Ejercicio I01 - Avisame si cambia\Ejercicio I01 - Avisame si cambia\obj\Debug\net6.0-windows\Ejercicio I01 - Avisame si cambia.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Ejercicio I01 - Avisame si cambia\Ejercicio I01 - Avisame si cambia\obj\Debug\net6.0-windows\Ejercicio I01 - Avisame si cambia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ejercicio I01 - Avisame si cambia\Ejercicio I01 - Avisame si cambia\obj\Debug\net6.0-windows\Ejercicio I01 - Avisame si cambia.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio I01 - Avisame si cambia\Ejercicio I01 - Avisame si cambia\obj\Debug\net6.0-windows\Ejercicio I01 - Avisame si cambia.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ejercicio I01 - Avisame si cambia\Ejercicio I01 - Avisame si cambia\obj\Debug\net6.0-windows\Ejercicio I01 - Avisame si cambia.csproj.CoreCompileInputs.cache
